@@ -20,7 +20,15 @@ ChatGPT Team 订阅协议的端到端重放工具，附带从零实现的 hCaptc
 
 | Logo | 名称 | 介绍 | 官网 |
 | --- | --- | --- | --- |
-| <a href="https://www.right.codes/register?aff=c408930b" target="_blank"><img src="docs/images/sponsors/right-code.png" alt="Right Code" width="140" /></a> | Right Code | 企业级 AI Agent 中转平台，OpenAI / Anthropic / Gemini 全协议兼容，统一接入 Claude Code、Codex、Gemini CLI、Grok Code，适合需要稳定接口、便捷接入的开发者与团队。<br><br>**邀请码：`c408930b`**<br>**返利：邀请者 5% · 好友加赠 5%**（好友支付完成后，双方同时获得实付金额对应额度的 5%） | [https://www.right.codes/register?aff=c408930b](https://www.right.codes/register?aff=c408930b) |
+| <a href="https://www.right.codes/register?aff=c408930b" target="_blank"><img src="docs/images/sponsors/right-code.png" alt="Right Code" width="140" /></a> | Right Code | 企业级 AI Agent 分发平台，OpenAI / Anthropic / Gemini 全协议兼容，统一接入 Claude Code、Codex、Gemini CLI、Grok Code 等。**稳定优先**（独家网关、号池稳定、可用率 99.5%）· **高性价比**（按量计费，仅官网十分之一）· **透明计费**（实时监控用量，无隐藏扣费）。<br><br>**邀请码：`c408930b`**<br>**返利：邀请者 5% · 好友加赠 5%**（好友支付完成后，双方同时获得实付金额对应额度的 5%） | [https://www.right.codes/register?aff=c408930b](https://www.right.codes/register?aff=c408930b) |
+
+<p align="center">
+  <a href="https://www.right.codes/register?aff=c408930b" target="_blank">
+    <img src="docs/images/sponsors/right-code-screenshot.png" width="600" alt="Right Code 主界面" />
+  </a>
+  <br>
+  <sub>👆 点击图片访问 Right Code · 邀请码 <code>c408930b</code></sub>
+</p>
 
 ---
 
