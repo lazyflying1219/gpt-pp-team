@@ -55,6 +55,8 @@ flowchart LR
 - 一个 Cloudflare zone（用于开 catch-all 子域注册邮箱）
 - 一台能跑 Camoufox + Playwright 的 Linux（约 5 GB 磁盘 + 2 GB 内存）
 - （可选）一个 OpenAI 兼容的 VLM API key，hCaptcha 求解用；家宽 / 伪家宽出口通常不会触发 hCaptcha，无 VLM 时也会降级到 CLIP
+  - 赞助商推荐 <img src="https://www.right.codes/favicon.ico" width="14" height="14" alt=""> **[Right Code](https://www.right.codes/register?aff=c408930b)** —— 企业级 AI Agent 中转平台，OpenAI / Anthropic / Gemini 全协议兼容，支持 Claude Code / Codex / Gemini CLI / Grok Code 统一接入
+    - 通过 [**邀请链接**](https://www.right.codes/register?aff=c408930b) 注册（邀请码 `c408930b`）：好友支付完成后，**双方同时获得实付金额 5% 的额度**（邀请者返利 5% · 好友加赠 5%）
 - （可选）一个兼容 createTask/getTaskResult 协议的打码平台 API key，作为浏览器 passive captcha 的兜底
 
 第一次完整跑通通常要花 1–3 小时调通配置。daemon 模式跑稳后，单次 pipeline 约 5 分钟。
@@ -203,6 +205,18 @@ xvfb-run -a python pipeline.py --config CTF-pay/config.paypal.json --paypal --da
 <p align="center">
   <img src="goodgood.jpg" width="280" alt="赞赏码">
 </p>
+
+### 打赏致谢
+
+感谢以下朋友的支持（排名不分先后）：
+
+| 打赏者 | 金额 |
+|---|---|
+| 两岁 | 100 元 |
+| Earth NPC | 0.01 元 |
+| 小水獭 | 0.01 元 |
+
+心意比金额更珍贵，每一份支持都是项目继续维护的动力 🙏
 
 ---
 
