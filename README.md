@@ -36,7 +36,7 @@ ChatGPT Team 订阅协议的端到端重放工具，附带从零实现的 hCaptc
 
 | Logo | 名称 | 介绍 | 官网 |
 | --- | --- | --- | --- |
-| <a href="https://api.lukyface.com/" target="_blank"><img src="docs/images/sponsors/lukyface.png" alt="lukyface API" width="140" /></a> | lukyface API（作者自营） | 统一的 AI 模型聚合 / 分发网关（基于 new-api），OpenAI / Claude / Gemini 三协议互转，自用余量分享。**倍率：0.1 元 ≈ 1 美元额度**（按充值实付计价），不定期降价优惠，量大可私聊议价。 | [https://api.lukyface.com/](https://api.lukyface.com/) |
+| <a href="https://api.lukyface.com/register?aff=9ipF" target="_blank"><img src="docs/images/sponsors/lukyface.png" alt="lukyface API" width="140" /></a> | lukyface API（作者自营） | 统一的 AI 模型聚合 / 分发网关（基于 new-api），OpenAI / Claude / Gemini 三协议互转，自用余量分享。**倍率：0.1 元 ≈ 1 美元额度**（按充值实付计价），不定期降价优惠，量大可私聊议价。<br><br>**邀请码：`9ipF`** · 通过 [邀请链接](https://api.lukyface.com/register?aff=9ipF) 注册即自动绑定 | [https://api.lukyface.com/register?aff=9ipF](https://api.lukyface.com/register?aff=9ipF) |
 
 ---
 
